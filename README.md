@@ -4,3 +4,7 @@ Huggingface has a problem with uploading files, so I made this repository to eas
 Here is the repository:
 
 https://colab.research.google.com/github/PhoenixStormJr/Upload-File-To-Huggingface-With-Google-Colab/blob/main/Upload_File_To_Huggingface.ipynb
+
+Here is my question:
+
+https://discuss.huggingface.co/t/cant-upload-my-model-stuck-on-hashing/106539
